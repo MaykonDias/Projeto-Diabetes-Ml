@@ -35,13 +35,19 @@ Após os testes, o **Random Forest** superou o KNN em todas as métricas princip
 | KNN (K=3) | 69% | 59% | 56% |
 | **Random Forest** | **74%** | **64%** | **64%** |
 
+![Matriz de Confusão Comparativa](imagens/matriz_confusao_comparativa.png)
+
 ### 🔍 Importância das Variáveis
 Através do Random Forest, identifiquei que a **Glicose**, o **IMC** e a **Idade** foram os fatores mais decisivos para o diagnóstico. Isso valida o modelo, pois coincide com os principais indicadores de risco na literatura médica.
+
+![Gráfico de Importância de Variáveis](imagens/importancia_das_variaveis.png)
 
 ## 📈 Visualizações Inclusas
 * Matrizes de Confusão para análise de Falsos Negativos.
 * Gráfico de dispersão (Glicose vs IMC) mostrando a fronteira de decisão.
 * Ranking de Importância de Variáveis.
+
+![Dispersão Glicose vs IMC](imagens/Glicose_vs_IMC.png)
 
 ---
 **Foco do Projeto:** Estudo de Machine Learning, Pré-processamento de dados e Avaliação de Métricas Clínicas.
