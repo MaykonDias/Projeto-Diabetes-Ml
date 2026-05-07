@@ -40,7 +40,7 @@ Após os testes, o **Random Forest** superou o KNN em todas as métricas princip
 ### 🔍 Importância das Variáveis
 Através do Random Forest, identifiquei que a **Glicose**, o **IMC** e a **Idade** foram os fatores mais decisivos para o diagnóstico. Isso valida o modelo, pois coincide com os principais indicadores de risco na literatura médica.
 
-![Gráfico de Importância de Variáveis](imagens/importancia_das_variaveis.png)
+![Gráfico de Importância de Variáveis](imagens/importancias_das_variaveis.png)
 
 ## 📈 Visualizações Inclusas
 * Matrizes de Confusão para análise de Falsos Negativos.
