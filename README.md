@@ -32,8 +32,8 @@ Após os testes, o **Random Forest** superou o KNN em todas as métricas princip
 
 | Modelo | Acurácia | Recall (Classe 1) | Precision (Classe 1) |
 | :--- | :---: | :---: | :---: |
-| KNN (K=3) | 69% | 59% | 56% |
-| **Random Forest** | **74%** | **64%** | **64%** |
+| KNN (K=3) | 71% | 62% | 59% |
+| **Random Forest** | **76%** | **68%** | **65%** |
 
 ![Matriz de Confusão Comparativa](imagens/matriz_confusao_comparativa.png)
 
